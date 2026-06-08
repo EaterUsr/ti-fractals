@@ -1,0 +1,6 @@
+.envrc
+bin/*
+obj/*
+.direnv/*
+flake.lock
+
