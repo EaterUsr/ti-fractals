@@ -23,7 +23,7 @@
       in
       {
         packages.default = toolchain.legacyPackages.${system}.buildCEProgram {
-          name = "hello";
+          name = "ti-fractals";
           src = self;
         };
 
